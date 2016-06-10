@@ -1,11 +1,12 @@
 import {Component} from 'angular2/core';
+import {PuzzleComponent} from "./puzzle/puzzle.component";
 
 @Component({
-    selector: 'my-app',
+    selector: 'aqk-app',
     template: `
-        <h1>Angular 2 Boilerplate</h1>
-        <p>Hello World!</p>
+        <aqk-puzzle></aqk-puzzle>
     `,
+    directives: [PuzzleComponent]
 })
 export class AppComponent {
 

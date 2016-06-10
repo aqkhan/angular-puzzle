@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="aiq">
+    <serverData>
+      <paths name="aiq">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="angular-2-puzzle" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
