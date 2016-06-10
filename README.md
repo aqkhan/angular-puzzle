@@ -1,4 +1,4 @@
-# Angular 2 Beta Boilerplate
+# Angular 2 Sample APP
 
 ## Description
 A simple Puzzle single page APP developed using AngularJS2
